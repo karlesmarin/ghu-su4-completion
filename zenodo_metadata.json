@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "article",
+    "title": "Anomaly- and Tadpole-Compatible Fermion Completion of Six-Dimensional SU(4) Gauge-Higgs Unification",
+    "creators": [
+      {"name": "Marín, Carles", "affiliation": "Independent researcher"}
+    ],
+    "description": "<p>In gauge&ndash;Higgs unification the cancellation of gauge anomalies is necessary, but is it sufficient for a viable fermion sector? On an orbifold the answer involves genuinely <em>local</em> data &mdash; anomalies and tadpoles bound to the fixed points &mdash; that a bulk count misses. We make the question concrete for a colored quark block embedded in the dimension-60 representation (3,<strong>60</strong>) of SU(4) on T&sup2;/Z&#8322;, built over the two-Higgs-doublet gauge sector of Akamatsu, Hirose, Maru and Nago (AHMN, arXiv:2603.05857); the fermion embedding is our own.</p><p>We fix the unique unbroken hypercharge that reproduces the Standard-Model quark charges (Y = (-7q&#8328;+4q&#8321;&#8325;)/18), show by an exhaustive scan that (3,<strong>60</strong>) is the minimal SU(4) representation able to host a full quark generation, and organize every consistency requirement into a reproducible hierarchy of exact conditions: the irreducible six- and four-dimensional anomalies, the localized non-Abelian cubic residues (certified axiom-free in the Lean&nbsp;4 proof assistant), the localized tadpole, the global SU(2) (Witten) constraint, and the boundary-mass matching of exotic zero modes.</p><p>We then exhibit &mdash; and independently verify in exact rational arithmetic &mdash; a 45-multiplet completion that cancels the eight anomaly coefficients and the localized tadpole together, with integral local cubic residues, so that here anomaly freedom and the tadpole condition are <em>compatible</em>.</p><p>This is not accidental: we prove an <strong>Existence theorem</strong> &mdash; on the fermion library the tadpole is linearly independent of the anomalies (the combined map has rank 10 = 8+2) and freely adjustable (its image on the anomaly-neutral non-negative cone is all of R&sup2;), so <em>every</em> anomaly-free completion of the block admits a tadpole-compatible one; the witness realizes a structural guarantee. The certificate is machine-checked in Lean&nbsp;4 (depending only on <code>propext</code>). The same exact rank-and-cone test is released as a reusable tool, <code>ghu_preflight.py</code>, that decides for any orbifold fermion library whether a localized functional is an independent obstruction or is always absorbable. The decisive remaining test &mdash; whether the exotics can be given mass without lifting the Standard-Model quarks &mdash; is cast as an exact bipartite-matching gate and left open pending the full brane spectrum. Every step is a finite exact computation; the results reported are certificates, not estimates.</p><p>English and Spanish versions are included, together with two Lean&nbsp;4 certificates, the reusable preflight tool, the exact SageMath verification scripts, and the full spectrum. The exact computations were carried out and cross-checked with Claude (Anthropic) as an AI research assistant against a common machine-verifiable ground truth.</p>",
+    "access_right": "open",
+    "license": "apache-2.0",
+    "keywords": [
+      "gauge-Higgs unification",
+      "orbifold",
+      "localized anomalies",
+      "localized tadpoles",
+      "SU(4)",
+      "extra dimensions",
+      "six dimensions",
+      "fermion completion",
+      "two-Higgs-doublet model",
+      "Standard Model quarks",
+      "Lean 4",
+      "machine-checked proof",
+      "exact computation",
+      "high-energy physics",
+      "hep-ph",
+      "hep-th"
+    ],
+    "language": "eng",
+    "related_identifiers": [
+      {"identifier": "10.5281/zenodo.21432627", "relation": "isContinuedBy", "resource_type": "publication-article"},
+      {"identifier": "https://github.com/karlesmarin/ghu-su4-completion", "relation": "isSupplementedBy", "resource_type": "software"},
+      {"identifier": "arXiv:2603.05857", "relation": "isDerivedFrom", "resource_type": "publication-preprint"},
+      {"identifier": "arXiv:2312.08608", "relation": "references", "resource_type": "publication-preprint"}
+    ]
+  }
+}
