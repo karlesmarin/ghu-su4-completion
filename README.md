@@ -7,11 +7,14 @@
 
 **📄 Paper (EN + ES), Lean certificates, the reusable tool & all data on Zenodo → https://doi.org/10.5281/zenodo.21432626**
 
-> ### 📚 Part **I** of a two-part series
-> This work is continued directly by Part II. Read them together:
+> ### 📚 Part **I** of a series
 > - **Part I — *Anomaly- and Tadpole-Compatible Fermion Completion of 6D SU(4) GHU*** (this repo): embeds the SM quarks in $(3,\mathbf{60})$ and proves the tadpole never obstructs.
-> - **Part II — *Three Gates to a Quark Generation*** (the exact criterion for *which* $SU(4)$ representations contain the SM quark cell)
->   → repo **[github.com/karlesmarin/su4-sm-cell-criterion](https://github.com/karlesmarin/su4-sm-cell-criterion)** · [Zenodo 10.5281/zenodo.21432627](https://doi.org/10.5281/zenodo.21432627)
+> - **Part II — *Three Gates to a Quark Generation***
+>   → [github.com/karlesmarin/su4-sm-cell-criterion](https://github.com/karlesmarin/su4-sm-cell-criterion) · [Zenodo 10.5281/zenodo.21432627](https://doi.org/10.5281/zenodo.21432627)
+> - **Part III — *A Centre-Charge Selection Rule for the Wilson-Line Potential***
+>   → [github.com/karlesmarin/centre-parity-selection](https://github.com/karlesmarin/centre-parity-selection) · [Zenodo 10.5281/zenodo.21438226](https://doi.org/10.5281/zenodo.21438226)
+> - **Part IV — *Schur Functions at $(1,-1,t,t^{-1})$***
+>   → [github.com/karlesmarin/schur-nonidentity-o4](https://github.com/karlesmarin/schur-nonidentity-o4) · [Zenodo 10.5281/zenodo.21463000](https://doi.org/10.5281/zenodo.21463000)
 
 An **exact, machine-checked consistency analysis** of embedding a colored quark block in the
 dimension-60 representation $(3,\mathbf{60})$ of $SU(4)$ on the orbifold $T^2/\mathbb{Z}_2$, over the
