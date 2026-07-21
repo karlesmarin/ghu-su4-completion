@@ -1,14 +1,14 @@
 # ⚛️ Anomaly- and Tadpole-Compatible Fermion Completion of 6D SU(4) Gauge–Higgs Unification
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21432626-1B6F8C?logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.21432626)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21432625-1B6F8C?logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.21432625)
 [![License](https://img.shields.io/badge/License-Apache_2.0-B5530F)](LICENSE)
 [![Lean 4](https://img.shields.io/badge/Lean_4-axiom--free-2C2C2C)](https://leanprover.github.io/)
 [![Language](https://img.shields.io/badge/paper-EN_%2B_ES-1B6F8C)](paper/)
 
-**📄 Paper (EN + ES), Lean certificates, the reusable tool & all data on Zenodo → https://doi.org/10.5281/zenodo.21432626**
+**📄 Paper (EN + ES), Lean certificates, the reusable tool & all data on Zenodo → https://doi.org/10.5281/zenodo.21432625**
 
 > ### 📚 Part **I** of a series
-> - **Part I — *Anomaly- and Tadpole-Compatible Fermion Completion of 6D SU(4) GHU*** (this repo): embeds the SM quarks in $(3,\mathbf{60})$ and proves the tadpole never obstructs.
+> - **Part I — *Anomaly- and Tadpole-Compatible Fermion Completion of 6D SU(4) GHU*** (this repo)
 > - **Part II — *Three Gates to a Quark Generation***
 >   → [github.com/karlesmarin/su4-sm-cell-criterion](https://github.com/karlesmarin/su4-sm-cell-criterion) · [Zenodo 10.5281/zenodo.21432627](https://doi.org/10.5281/zenodo.21432627)
 > - **Part III — *A Centre-Charge Selection Rule for the Wilson-Line Potential***
@@ -114,7 +114,7 @@ supplement/  SUPPLEMENT.md · witness_45_spectrum.csv · formula_audit.log
 ## 📜 License & citation
 
 Released under [Apache 2.0](LICENSE). If you use this, please cite the Zenodo record:
-**[10.5281/zenodo.21432626](https://doi.org/10.5281/zenodo.21432626)**. Author: **Carles Marín**
+**[10.5281/zenodo.21432625](https://doi.org/10.5281/zenodo.21432625)**. Author: **Carles Marín**
 (independent researcher). The exact computations were carried out and cross-checked with Claude
 (Anthropic) as an AI research assistant against a common machine-verifiable ground truth (Lean, exact
 algebra).
