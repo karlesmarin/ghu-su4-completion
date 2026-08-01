@@ -16,7 +16,7 @@
 > - **Part IV — *Schur Functions at (1,−1,t,t⁻¹)***
 >   → [github.com/karlesmarin/schur-nonidentity-o4](https://github.com/karlesmarin/schur-nonidentity-o4) · [Zenodo 10.5281/zenodo.21463000](https://doi.org/10.5281/zenodo.21463000)
 > - **Part V — *What the Higgs Potential Cannot See***
->   → [github.com/karlesmarin/higgs-blind-class](https://github.com/karlesmarin/higgs-blind-class) · [Zenodo 10.5281/zenodo.21727095](https://doi.org/10.5281/zenodo.21727095)
+>   → [github.com/karlesmarin/higgs-blind-class](https://github.com/karlesmarin/higgs-blind-class) · [Zenodo 10.5281/zenodo.21727094](https://doi.org/10.5281/zenodo.21727094)
 
 An **exact, machine-checked consistency analysis** of embedding a colored quark block in the
 dimension-60 representation $(3,\mathbf{60})$ of $SU(4)$ on the orbifold $T^2/\mathbb{Z}_2$, over the
