@@ -21,6 +21,8 @@
 >   → [github.com/karlesmarin/su7-proton-row](https://github.com/karlesmarin/su7-proton-row) · [Zenodo 10.5281/zenodo.22033302](https://doi.org/10.5281/zenodo.22033302)
 > - **Part VII — *An Upper Bound on the Compactification Scale of SU(7) GHU***
 >   → [github.com/karlesmarin/su7-compactification-bound](https://github.com/karlesmarin/su7-compactification-bound) · [Zenodo 10.5281/zenodo.22087251](https://doi.org/10.5281/zenodo.22087251)
+> - **Part VIII — *A Certified 2.68 TeV Gap in the Closed-Form Map of the Compactification Scale***
+>   → [github.com/karlesmarin/su7-certified-gap](https://github.com/karlesmarin/su7-certified-gap) · [Zenodo 10.5281/zenodo.22159036](https://doi.org/10.5281/zenodo.22159036)
 
 An **exact, machine-checked consistency analysis** of embedding a colored quark block in the
 dimension-60 representation $(3,\mathbf{60})$ of $SU(4)$ on the orbifold $T^2/\mathbb{Z}_2$, over the
